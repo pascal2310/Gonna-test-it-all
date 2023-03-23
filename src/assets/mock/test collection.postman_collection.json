@@ -1,0 +1,57 @@
+{
+	"info": {
+		"_postman_id": "5fb5c328-c7cc-4190-b889-2699e8c71416",
+		"name": "test collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "16390593"
+	},
+	"item": [
+		{
+			"name": "hotels 200",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://k8s-development.vandervalkonline.com/hotel-service/uat2/v1/hotels",
+					"protocol": "https",
+					"host": [
+						"k8s-development",
+						"vandervalkonline",
+						"com"
+					],
+					"path": [
+						"hotel-service",
+						"uat2",
+						"v1",
+						"hotels"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "hotels 200 guid",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://k8s-development.vandervalkonline.com/hotel-service/uat2/v1/hotels/2dd243c3-927f-4aae-b5fe-c15ac79e52a3",
+					"protocol": "https",
+					"host": [
+						"k8s-development",
+						"vandervalkonline",
+						"com"
+					],
+					"path": [
+						"hotel-service",
+						"uat2",
+						"v1",
+						"hotels",
+						"2dd243c3-927f-4aae-b5fe-c15ac79e52a3"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

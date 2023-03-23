@@ -1,0 +1,6496 @@
+{
+  "dataaa": [
+    {
+      "guid": "2dd243c3-927f-4aae-b5fe-c15ac79e52a3",
+      "systemName": "theaterhotel",
+      "code": "ALM",
+      "currency": "EUR",
+      "name": "Theaterhotel Almelo",
+      "slug": "theater-hotel",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/29/desktop-retina/carousel_wide_1024x768_pandtheaterhotel%252D1%252Ejpg",
+      "website": "https://www.theaterhotel.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 100,
+        "child": 100,
+        "infant": 200
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Almelo",
+        "street": "Schouwburgplein",
+        "streetNumber": "1",
+        "streetNumberAddition": "",
+        "postalCode": "7607AE",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.3556411,
+        "longitude": 6.6671335
+      },
+      "contacts": [
+        {
+          "phone": " 31 546 80 30 00",
+          "email": "info@theaterhotel.nl",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "reserveringen@theaterhotel.nl",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "NL",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "EN",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "DE",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "5734c6c3-9824-44dc-9948-f5d180543188",
+      "systemName": "hotel-amersfoort-a1",
+      "code": "AME",
+      "currency": "EUR",
+      "name": "Hotel Amersfoort-A1",
+      "slug": "hotel-amersfoort-a1",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/37/desktop-retina/carousel_wide_1024x768_fotoalbum12%252Ejpg",
+      "website": "https://www.hotelamersfoorta1.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Amersfoort",
+        "street": "Ruimtevaart",
+        "streetNumber": "22",
+        "streetNumberAddition": "",
+        "postalCode": "3824MX",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.1964122,
+        "longitude": 5.3966974
+      },
+      "contacts": [
+        {
+          "phone": "+31 33 454 00 00",
+          "email": "amersfoort@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "amersfoort@valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 2
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 2
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "19cdc930-ed5b-44cd-8665-b3dcda923149",
+      "systemName": "hotelantwerpen",
+      "code": "ANT",
+      "currency": "EUR",
+      "name": "Hotel Antwerpen",
+      "slug": "hotelantwerpen",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/128/desktop-retina/carousel_wide_1024x768_%252D243%252Ejpg",
+      "website": "https://www.vandervalkantwerpen.be",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Antwerpen",
+        "street": "Luitenant Lippenslaan",
+        "streetNumber": "66",
+        "streetNumberAddition": "",
+        "postalCode": "2140",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 51.2087636,
+        "longitude": 4.4464525
+      },
+      "contacts": [
+        {
+          "phone": "+32 3 235 91 91",
+          "email": "info@antwerpen.valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "reservations@antwerpen.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 2
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "53ef7fd6-7865-47b8-a341-eb2657c4197e",
+      "systemName": "hotelara",
+      "code": "ARA",
+      "currency": "EUR",
+      "name": "Hotel ARA",
+      "slug": "hotelara",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/16/desktop-retina/carousel_wide_1024x768_ETF%255F6443%252Ejpg",
+      "website": "https://www.hotelara.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Zwijndrecht",
+        "street": "Veerweg",
+        "streetNumber": "10",
+        "streetNumberAddition": "",
+        "postalCode": "3336LM",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.809461,
+        "longitude": 4.580855
+      },
+      "contacts": [
+        {
+          "phone": "+31 78 623 17 80",
+          "email": "ara@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "+31 (0)78 62 31 782",
+          "email": "reserveringen@hotelara.nl",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "b15ac8d9-4433-4f44-84cc-2c0cf7adab6c",
+      "systemName": "hetarresthuis",
+      "code": "ARR",
+      "currency": "EUR",
+      "name": "Het Arresthuis",
+      "slug": "hetarresthuis",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/68/desktop-retina/carousel_wide_1024x768_arrest%255F018%252Ejpg",
+      "website": "https://www.hetarresthuis.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Roermond",
+        "street": "Pollartstraat",
+        "streetNumber": "7",
+        "streetNumberAddition": "",
+        "postalCode": "6041GC",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.1948586,
+        "longitude": 5.9892628
+      },
+      "contacts": [
+        {
+          "phone": "+31 475 870 870",
+          "email": "info@hetarresthuis.nl",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@hetarresthuis.nl",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 0
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "32e77285-7b24-4c8c-88d5-8b6254b0d94b",
+      "systemName": "hotelbarcarola",
+      "code": "BAR",
+      "currency": "EUR",
+      "name": "Hotel Barcarola",
+      "slug": "hotelbarcarola",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/97/desktop-retina/carousel_wide_1024x768_JUL09%255FBARCAROLA%255FKEY%255FB%255F%2528240%2529%252Ejpg",
+      "website": "https://www.hotelbarcarola.es",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 25,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Madrid",
+      "address": {
+        "city": "Sant Feliu de Guixols",
+        "street": "Carrer del pintor Pablo Picasso",
+        "streetNumber": "1-19",
+        "streetNumberAddition": "",
+        "postalCode": "17220",
+        "countryCode": "ES",
+        "gps": "",
+        "latitude": 41.79089522046,
+        "longitude": 3.047428603705
+      },
+      "contacts": [
+        {
+          "phone": "+34 972 32 69 32",
+          "email": "barcarola@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@barcarola.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 2
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 6
+        },
+        "adults": {
+          "max": 8
+        },
+        "maxPersons": 8
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "ES",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "CA",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "6a7fd17e-1397-4c99-b057-52b54110bc1f",
+      "systemName": "hotelberlin",
+      "code": "BER",
+      "currency": "EUR",
+      "name": "Hotel Berlin Brandenburg",
+      "slug": "hotelberlin",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/76/desktop-retina/carousel_wide_1024x768_Van%2520der%2520Valk%2520klein%252001%252E07%252E15%252D215%252Ejpg",
+      "website": "https://berlin.vandervalk.de",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Berlin",
+      "address": {
+        "city": "Blankenfelde-Mahlow",
+        "street": "Eschenweg",
+        "streetNumber": "18",
+        "streetNumberAddition": "",
+        "postalCode": "D-15827",
+        "countryCode": "DE",
+        "gps": "",
+        "latitude": 52.30946,
+        "longitude": 13.44587
+      },
+      "contacts": [
+        {
+          "phone": "+49 33 708 580",
+          "email": "berlin@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@berlin.vandervalk.de",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 3
+        },
+        "adults": {
+          "max": 3
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "8b66eb0b-29d1-4f13-bc26-1fbb6179e6e7",
+      "systemName": "hotelbeveren",
+      "code": "BEV",
+      "currency": "EUR",
+      "name": "Hotel Beveren",
+      "slug": "hotelbeveren",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/86/desktop-retina/carousel_wide_1024x768_vip%252Ejpg",
+      "website": "https://www.hotelbeveren.be",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Beveren-Waas",
+        "street": "Gentseweg",
+        "streetNumber": "280",
+        "streetNumberAddition": "",
+        "postalCode": "9120",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 51.199035,
+        "longitude": 4.2264736
+      },
+      "contacts": [
+        {
+          "phone": "+32 3 775 86 23",
+          "email": "info@hotelbeveren.be",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@hotelbeveren.be",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "5684f116-1f59-4db8-b50a-6a701c7cd3fb",
+      "systemName": "hoteldenhaagwassenaar",
+      "code": "BIJ",
+      "currency": "EUR",
+      "name": "Hotel Den Haag - Wassenaar",
+      "slug": "hoteldenhaagwassenaar",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/9/desktop-retina/carousel_wide_1024x768_luxe%2520kamer%25202%252Ejpg",
+      "website": "https://www.hoteldenhaagwassenaar.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Wassenaar",
+        "street": "Zijdeweg",
+        "streetNumber": "54",
+        "streetNumberAddition": "",
+        "postalCode": "2245BZ",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.1054909,
+        "longitude": 4.3601822
+      },
+      "contacts": [
+        {
+          "phone": "+31 70 511 93 44",
+          "email": "denhaag-wassenaar@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "denhaag-wassenaar@valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "c7b415d1-51cd-4a74-940a-8f5defa9ccbc",
+      "systemName": "hoteldebilt",
+      "code": "BIL",
+      "currency": "EUR",
+      "name": "Hotel De Bilt - Utrecht",
+      "slug": "hoteldebilt",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/38/desktop-retina/carousel_wide_1024x768_Buitenkant%2520%252D%2520Avond%25202%252Ejpg",
+      "website": "https://www.biltschehoek.com",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "De Bilt",
+        "street": "De Holle Bilt",
+        "streetNumber": "1",
+        "streetNumberAddition": "",
+        "postalCode": "3732HM",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.102860326381,
+        "longitude": 5.192791148132
+      },
+      "contacts": [
+        {
+          "phone": "+31 30 220 58 11",
+          "email": "biltschehoek@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "reservations@biltschehoek.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 0
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "636c826b-c769-4dc3-80cb-9df22b572771",
+      "systemName": "hotelbreukelen",
+      "code": "BRE",
+      "currency": "EUR",
+      "name": "Hotel Breukelen",
+      "slug": "hotel-breukelen",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/39/desktop-retina/carousel_wide_1024x768_Hotel%2520Breukelen%25202%252Ejpg",
+      "website": "https://www.hotelbreukelen.nl",
+      "chamberOfCommerceNumber": "123456",
+      "checkInTime": "13:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 30,
+      "municipalTax": {
+        "adult": 100,
+        "child": 200,
+        "infant": 300
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Breukelen",
+        "street": "Stationsweg",
+        "streetNumber": "91",
+        "streetNumberAddition": "",
+        "postalCode": "3621 LK",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.1688385,
+        "longitude": 4.989589
+      },
+      "contacts": [
+        {
+          "phone": "+31 (0)346 26 58 88",
+          "email": "breukelen@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "+31 (0)346 26 58 88",
+          "email": "breukelen@valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "http://breukelen.uat-2.valk.aanzee.nl/",
+            "restaurant": "http://breukelen.uat-2.valk.aanzee.nl/eten-drinken"
+          },
+          "code": "NL",
+          "footnote": "Graag willen wij u er op attenderen dat al onze kamers niet-roken kamers zijn. Mochten wij constateren dat er toch gerookt is op de kamer, dan staat hier een boete op van €200,00. Indien het brandalarm afgaat door roken op de kamer, en de brandweer moet uitrukken, dan zullen de voorrijkosten van €200,00 aan u worden doorbelast.",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "http://breukelen.uat-2.valk.aanzee.nl/en",
+            "restaurant": "http://breukelen.uat-2.valk.aanzee.nl/en/culinary"
+          },
+          "code": "EN",
+          "footnote": "We would like to draw your attention to the fact that all our rooms are non-smoking rooms. If we find that there is nevertheless smoking in the room, then there is a fine of € 200.00. If the fire alarm is triggered by smoking in the room, and the fire brigade must switch off, the call-out charge of € 200.00 will be charged to you.",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "http://breukelen.uat-2.valk.aanzee.nl/de",
+            "restaurant": "http://breukelen.uat-2.valk.aanzee.nl/de/kulinarisch"
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [
+        {
+          "code": "NONREF",
+          "prepaidPercentage": 100,
+          "includeTax": true
+        },
+        {
+          "code": "GUARAN30",
+          "prepaidPercentage": 30,
+          "includeTax": false
+        },
+        {
+          "code": "GUARAN50",
+          "prepaidPercentage": 50,
+          "includeTax": false
+        }
+      ],
+      "checkinFlow": "new",
+      "checkoutEnabled": true
+    },
+    {
+      "guid": "88f76201-edb0-4971-be0a-0b49796bf9c6",
+      "systemName": "hotelbrusselsairport",
+      "code": "BRU",
+      "currency": "EUR",
+      "name": "Hotel Brussels Airport",
+      "slug": "hotelbrusselsairport",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/69/desktop-retina/carousel_wide_1024x768_B%255FHotel%252Ejpg",
+      "website": "https://www.hotelbrusselsairport.com",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Diegem",
+        "street": "Culliganlaan",
+        "streetNumber": "4b",
+        "streetNumberAddition": "",
+        "postalCode": "1831",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 50.8879848,
+        "longitude": 4.4526786
+      },
+      "contacts": [
+        {
+          "phone": "+32 2 277 20 00",
+          "email": "info@brussels.valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@brussels.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 3
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "67869718-e917-4dc1-bc1c-4acea6cbb2bc",
+      "systemName": "hotelapeldoorndecantharel",
+      "code": "CAN",
+      "currency": "EUR",
+      "name": "Hotel Apeldoorn - de Cantharel",
+      "slug": "hotelapeldoorndecantharel",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/33/desktop-retina/carousel_wide_1024x768_huisje%2520james%2520email%252Ejpg",
+      "website": "https://www.vandervalkapeldoorn.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Apeldoorn",
+        "street": "Van Golsteinlaan",
+        "streetNumber": "20",
+        "streetNumberAddition": "",
+        "postalCode": "7339GT",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.1766005,
+        "longitude": 5.9114756
+      },
+      "contacts": [
+        {
+          "phone": "+31 55 541 44 55",
+          "email": "cantharel@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "cantharel@valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 4
+        },
+        "children": {
+          "max": 4
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 5
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "22bb5c4c-cc93-4037-a627-dd62f6be8c6e",
+      "systemName": "hotelmons",
+      "code": "CHM",
+      "currency": "EUR",
+      "name": "Van der Valk Hotel Mons Congres",
+      "slug": "hotelmons",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/100/desktop-retina/carousel_wide_1024x768_valk%255Fhotel%255Fmons%252Ejpg",
+      "website": "https://www.hotelmons.eu",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Mons",
+        "street": "Avenue Mélina Mercouri",
+        "streetNumber": "7",
+        "streetNumberAddition": "",
+        "postalCode": "7000",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 50.452022,
+        "longitude": 3.9359982
+      },
+      "contacts": [
+        {
+          "phone": "+32 65 39 02 07",
+          "email": "hotelmons@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "hotelmons@valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 2
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "60be17d2-76bb-4bca-94db-1b7a76bf5a6c",
+      "systemName": "hotelcuijknijmegen",
+      "code": "CUI",
+      "currency": "EUR",
+      "name": "Hotel Cuijk - Nijmegen",
+      "slug": "hotelcuijknijmegen",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/50/desktop-retina/carousel_wide_1024x768_01%252Ejpg",
+      "website": "https://www.hotelcuijk.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Cuijk (nabij Nijmegen)",
+        "street": "Raamweg",
+        "streetNumber": "10",
+        "streetNumberAddition": "",
+        "postalCode": "5431NH",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.7360485,
+        "longitude": 5.8479897
+      },
+      "contacts": [
+        {
+          "phone": "+31 485 33 51 23",
+          "email": "cuijk@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@hotelcuijk.nl",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 3
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "927da249-ab6f-4466-a4a1-6c076c137a2c",
+      "systemName": "hoteldennenhof",
+      "code": "DEN",
+      "currency": "EUR",
+      "name": "Hotel Dennenhof",
+      "slug": "hoteldennenhof",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/88/desktop-retina/carousel_wide_1024x768_VALK%255FDennenhof%255FHR%255F046%252Ejpg",
+      "website": "https://www.hoteldennenhof.be",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Maria-ter-Heide",
+        "street": "Bredabaan",
+        "streetNumber": "940",
+        "streetNumberAddition": "",
+        "postalCode": "2930",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 51.337633,
+        "longitude": 4.5273477
+      },
+      "contacts": [
+        {
+          "phone": "+32 3 663 05 09",
+          "email": "info@dennenhof.valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@dennenhof.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 3
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "c5e51028-fe38-48a2-b313-32dec3f8e9b2",
+      "systemName": "resortdrewitz",
+      "code": "DRE",
+      "currency": "EUR",
+      "name": "Naturresort Drewitz",
+      "slug": "resortdrewitz",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/77/desktop-retina/carousel_wide_1024x768_G0023212%252D1%255Fbea%252Ejpg",
+      "website": "https://drewitzersee.vandervalk.de",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 50,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Berlin",
+      "address": {
+        "city": "Nossentiner Hütte OT Drewitz",
+        "street": "Am Drewitzer See",
+        "streetNumber": "1",
+        "streetNumberAddition": "",
+        "postalCode": "D-17214",
+        "countryCode": "DE",
+        "gps": "",
+        "latitude": 53.56796,
+        "longitude": 12.36591
+      },
+      "contacts": [
+        {
+          "phone": "+49 39927 - 7670",
+          "email": "drewitz@vandervalk.de",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "drewitz@vandervalk.de",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 5
+        },
+        "children": {
+          "max": 5
+        },
+        "adults": {
+          "max": 6
+        },
+        "maxPersons": 6
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "4d00a730-12eb-4e13-b756-a3ae29bcf6bb",
+      "systemName": "hoteldrongen",
+      "code": "DRO",
+      "currency": "EUR",
+      "name": "Hotel Drongen - Gent",
+      "slug": "hoteldrongen",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/91/desktop-retina/carousel_wide_1024x768_%252D2526%252Ejpg",
+      "website": "https://www.hoteldrongen.be",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Drongen",
+        "street": "Baarleveldestraat",
+        "streetNumber": "2",
+        "streetNumberAddition": "",
+        "postalCode": "9031",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 51.0395707,
+        "longitude": 3.6232604
+      },
+      "contacts": [
+        {
+          "phone": "+32 9 226 74 32",
+          "email": "drongen@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@hoteldrongen.be",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 4,
+          "maxAge": 12
+        },
+        "child": {
+          "minAge": 0,
+          "maxAge": 3
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 2
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "820736b7-1ca0-4129-ada4-4d8b5dff45a0",
+      "systemName": "hoteleindhoven",
+      "code": "EIN",
+      "currency": "EUR",
+      "name": "Hotel Eindhoven",
+      "slug": "hoteleindhoven",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/51/desktop-retina/carousel_wide_1024x768_05%252Ejpg",
+      "website": "https://www.hoteleindhoven.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Eindhoven",
+        "street": "Aalsterweg",
+        "streetNumber": "322",
+        "streetNumberAddition": "",
+        "postalCode": "5644RL",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.4066286,
+        "longitude": 5.4797143
+      },
+      "contacts": [
+        {
+          "phone": "+31 40 211 60 33",
+          "email": "eindhoven@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "frontoffice@eindhoven.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "8cca2498-16ea-41a2-9216-0f8f74418f78",
+      "systemName": "hotelgilzetilburg",
+      "code": "GIL8",
+      "currency": "EUR",
+      "name": "Hotel Gilze - Tilburg",
+      "slug": "hotelgilzetilburg",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/52/desktop-retina/carousel_wide_1024x768_Luchtfoto2%252Ejpg",
+      "website": "https://www.hotelgilzetilburg.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Gilze",
+        "street": "Klein Zwitserland",
+        "streetNumber": "8",
+        "streetNumberAddition": "",
+        "postalCode": "5126TA",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.55431198171,
+        "longitude": 4.94926559797
+      },
+      "contacts": [
+        {
+          "phone": "+31 161 45 49 51",
+          "email": "gilzetilburg@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "receptie@hotelgilzetilburg.nl",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "fce58e41-2705-439d-a945-123f66b6e33b",
+      "systemName": "hotelgladbeck",
+      "code": "GLA",
+      "currency": "EUR",
+      "name": "Hotel Gladbeck",
+      "slug": "hotelgladbeck",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/78/desktop-retina/carousel_wide_1024x768_gladbeck%252D001%252EJPG",
+      "website": "https://gladbeck.vandervalk.de",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Berlin",
+      "address": {
+        "city": "Gladbeck",
+        "street": "Bohmertstraße",
+        "streetNumber": "333",
+        "streetNumberAddition": "",
+        "postalCode": "D-45964",
+        "countryCode": "DE",
+        "gps": "",
+        "latitude": 51.55474,
+        "longitude": 6.97006
+      },
+      "contacts": [
+        {
+          "phone": "+49 2043 6980",
+          "email": "gladbeck@vandervalk.de",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "gladbeck@vandervalk.de",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 3
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "12abef6d-5a0a-41af-8d12-5507b8275893",
+      "systemName": "hotelgroningenhoogkerk",
+      "code": "GRN",
+      "currency": "EUR",
+      "name": "Hotel Groningen - Hoogkerk",
+      "slug": "hotelgroningenhoogkerk",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/125/desktop-retina/carousel_wide_1024x768_Hotel%2520aangezicht%252Ejpg",
+      "website": "https://www.vandervalkhotelgroningenhoogkerk.com",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Eelderwolde",
+        "street": "Borchsingel",
+        "streetNumber": "53",
+        "streetNumberAddition": "",
+        "postalCode": "9766PP",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 53.19761294594,
+        "longitude": 6.516138453784
+      },
+      "contacts": [
+        {
+          "phone": "+31 50 820 05 10",
+          "email": "info@hoogkerk.valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@hoogkerk.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 3
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "275a6d47-f61c-4370-a560-1c567d2afaad",
+      "systemName": "schlosshotelballenstedt",
+      "code": "GRO",
+      "currency": "EUR",
+      "name": "Schlosshotel Ballenstedt",
+      "slug": "schlosshotelballenstedt",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/73/desktop-retina/carousel_wide_1024x768_ballenstedt%252D018%252EJPG",
+      "website": "https://ballenstedt.vandervalk.de",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Berlin",
+      "address": {
+        "city": "Ballenstedt",
+        "street": "Schlossplatz",
+        "streetNumber": "1",
+        "streetNumberAddition": "",
+        "postalCode": "D-06493",
+        "countryCode": "DE",
+        "gps": "",
+        "latitude": 51.71847,
+        "longitude": 11.22094
+      },
+      "contacts": [
+        {
+          "phone": "+49 39483 510",
+          "email": "ballenstedt@vandervalk.de",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "ballenstedt@vandervalk.de",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 3
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "46333745-dc60-4b0d-8690-e773b52f87f5",
+      "systemName": "hoteldrachten",
+      "code": "GTD",
+      "currency": "EUR",
+      "name": "Hotel Drachten",
+      "slug": "hoteldrachten",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/20/desktop-retina/carousel_wide_1024x768_Panorama%2520origineel%2520%252E15%252Ejpg",
+      "website": "https://www.hoteldrachten.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Drachten",
+        "street": "Lavendelheide",
+        "streetNumber": "4",
+        "streetNumberAddition": "",
+        "postalCode": "9202PD",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 53.105592361863,
+        "longitude": 6.128664919604
+      },
+      "contacts": [
+        {
+          "phone": "+31 (0)512 52 07 05",
+          "email": "drachten@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@drachten.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 3
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "73b9496a-e5cf-408a-88ad-646579462141",
+      "systemName": "hotelwittenburg",
+      "code": "HAM",
+      "currency": "EUR",
+      "name": "Hotel Hamburg-Wittenburg",
+      "slug": "hotelwittenburg",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/84/desktop-retina/carousel_wide_1024x768_solardach%252Ejpg",
+      "website": "https://wittenburg.vandervalk.de",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Berlin",
+      "address": {
+        "city": "Wittenburg",
+        "street": "Zur Winterwelt",
+        "streetNumber": "1",
+        "streetNumberAddition": "",
+        "postalCode": "D-19243",
+        "countryCode": "DE",
+        "gps": "",
+        "latitude": 53.50657,
+        "longitude": 11.0946
+      },
+      "contacts": [
+        {
+          "phone": "+49 38852 234 0",
+          "email": "infocenter@alpincenter.com",
+          "type": "main"
+        },
+        {
+          "phone": "+49 38852 234 0",
+          "email": "hotelreservierung@alpincenter.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 15
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 4
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 5
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "b9a4c6c3-de37-44e5-8f01-c85c156470e7",
+      "systemName": "hotelhardegarijp",
+      "code": "HAR",
+      "currency": "EUR",
+      "name": "Hotel Hardegarijp-Leeuwarden",
+      "slug": "hotelhardegarijp",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/21/desktop-retina/carousel_wide_1024x768_voorkant%2520hotel%252Ejpg",
+      "website": "https://www.hotelhardegarijp.com",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Hurdegaryp",
+        "street": "Rijksstraatweg",
+        "streetNumber": "36",
+        "streetNumberAddition": "",
+        "postalCode": "9254DJ",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 53.2180275,
+        "longitude": 5.9417896
+      },
+      "contacts": [
+        {
+          "phone": "+31 511 47 57 00",
+          "email": "receptie@hotelhardegarijp.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "receptie@hotelhardegarijp.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 2
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "00c232e8-d18c-44e7-8519-68b9201dd2e3",
+      "systemName": "hotelcharleroiairport",
+      "code": "HCA",
+      "currency": "EUR",
+      "name": "Hotel Charleroi Airport",
+      "slug": "hotelcharleroiairport",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/92/desktop-retina/carousel_wide_1024x768_Charleroi%252001%252Ejpg",
+      "website": "https://www.hotelcharleroiairport.be",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Gosselies",
+        "street": "Chaussée de Courcelles",
+        "streetNumber": "115",
+        "streetNumberAddition": "",
+        "postalCode": "6041",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 50.4644462,
+        "longitude": 4.4188482
+      },
+      "contacts": [
+        {
+          "phone": "+32 71 25 00 50",
+          "email": "charleroi@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@hotelcharleroiairport.be",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 3
+        },
+        "children": {
+          "max": 4
+        },
+        "adults": {
+          "max": 10
+        },
+        "maxPersons": 10
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "d9cfaf5f-fdbf-4586-8a37-9b87277d80b0",
+      "systemName": "hotelhildesheim",
+      "code": "HIL",
+      "currency": "EUR",
+      "name": "Van der Valk Hotel Hildesheim",
+      "slug": "hotelhildesheim",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/79/desktop-retina/carousel_wide_1024x768_Aussenaufnahme%252D1%252Ejpg",
+      "website": "https://hildesheim.vandervalk.de",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Berlin",
+      "address": {
+        "city": "Hildesheim",
+        "street": "Markt",
+        "streetNumber": "4",
+        "streetNumberAddition": "",
+        "postalCode": "D-31134",
+        "countryCode": "DE",
+        "gps": "JakobistraÃŸe",
+        "latitude": 52.1531687,
+        "longitude": 9.9514441
+      },
+      "contacts": [
+        {
+          "phone": "+49 5121 300 0",
+          "email": "hildesheim@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@hildesheim.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 4
+        },
+        "child": {
+          "minAge": 5,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 3
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": true
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "2d99548e-1aa5-4f31-8b0a-13da7facc108",
+      "systemName": "hotelhoorn",
+      "code": "HOO",
+      "currency": "EUR",
+      "name": "Hotel Hoorn",
+      "slug": "idk",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/102/desktop-retina/carousel_wide_1024x768_%252D28%252EJPG",
+      "website": "https://www.hotelhoorn.com",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 350,
+        "child": 250,
+        "infant": 150
+      },
+      "stars": 1,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Hoorn",
+        "street": "Westfriese parkweg",
+        "streetNumber": "1",
+        "streetNumberAddition": "",
+        "postalCode": "1625MA",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.6544997,
+        "longitude": 5.0421964
+      },
+      "contacts": [
+        {
+          "phone": "+31 229 79 90 60",
+          "email": "hoorn@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@hoorn.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 2
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "c28992a1-88c2-4dbc-ae12-4b0338553f54",
+      "systemName": "hotelselys",
+      "code": "HSL",
+      "currency": "EUR",
+      "name": "Van der Valk Hotel Sélys Liège",
+      "slug": "hotelselys",
+      "image": "",
+      "website": "https://www.hotelselys.be",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Liège",
+        "street": "Mont Saint-Martin",
+        "streetNumber": "9-11",
+        "streetNumberAddition": "",
+        "postalCode": "4000",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 50.6311265,
+        "longitude": 5.5743027
+      },
+      "contacts": [
+        {
+          "phone": "0032 42229494",
+          "email": "selys@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "selys@valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 0
+        },
+        "children": {
+          "max": 0
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "5e042a04-be6a-418c-988e-99bbc4573797",
+      "systemName": "hotelvolendam",
+      "code": "KAT",
+      "currency": "EUR",
+      "name": "Hotel Volendam",
+      "slug": "slg",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/48/desktop-retina/carousel_wide_1024x768_Buiten%2520hotel%25205%252Ejpg",
+      "website": "https://www.hotelvolendam.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Katwoude",
+        "street": "Wagenweg",
+        "streetNumber": "1",
+        "streetNumberAddition": "",
+        "postalCode": "1145PW",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.4877083,
+        "longitude": 5.0337792
+      },
+      "contacts": [
+        {
+          "phone": "+31 299 36 56 56",
+          "email": "volendam@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@hotelvolendam.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 6
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "old",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "17500b11-bc57-4b09-acb5-5fd535fcd41c",
+      "systemName": "kontikibeachresort",
+      "code": "KBR",
+      "currency": "USD",
+      "name": "Kontiki Beach Resort",
+      "slug": "kontikibeachresort",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/98/desktop-retina/carousel_wide_1024x768_VIP%255FWeb1%252Epng",
+      "website": "https://www.kontikibeachresort.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 50,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "America/Curacao",
+      "address": {
+        "city": "Willemstad Curacao",
+        "street": "Bapor Kibra",
+        "streetNumber": "z/n",
+        "streetNumberAddition": "",
+        "postalCode": "1000",
+        "countryCode": "CW",
+        "gps": "",
+        "latitude": 12.0889576,
+        "longitude": -68.8991314
+      },
+      "contacts": [
+        {
+          "phone": "+599 9 46 31 600",
+          "email": "bookings@kontikibeachresort.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "bookings@kontikibeachresort.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 3
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "ES",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "aa8494fd-2d57-4730-ba44-8de140f559ed",
+      "systemName": "hotelleusden",
+      "code": "LEU",
+      "currency": "EUR",
+      "name": "Hotel Leusden - Amersfoort",
+      "slug": "hotelleusden",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/41/desktop-retina/carousel_wide_1024x768_leusden%2520lucht%2520foto%252Ejpg",
+      "website": "https://www.hotelleusden.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Leusden",
+        "street": "Philipsstraat",
+        "streetNumber": "18",
+        "streetNumberAddition": "",
+        "postalCode": "3833LC",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.1441347,
+        "longitude": 5.4187578
+      },
+      "contacts": [
+        {
+          "phone": "+31 33 434 53 45",
+          "email": "leusden@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@leusden.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "d1dbd776-f4ff-4cc5-947c-ad4974bf82cd",
+      "systemName": "congreshotelliege",
+      "code": "LIE",
+      "currency": "EUR",
+      "name": "Congrès Hotel Liège",
+      "slug": "congreshotelliege",
+      "image": "",
+      "website": "https://www.congreshotelliege.be",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Liège",
+        "street": "Esplanade de l'Europe",
+        "streetNumber": "2",
+        "streetNumberAddition": "",
+        "postalCode": "4020",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 50.6311265,
+        "longitude": 5.5743027
+      },
+      "contacts": [
+        {
+          "phone": "0032 4 244 12 00 ",
+          "email": "reception@hotelliege.eu",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "reception@hotelliege.eu",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 0
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 8
+      },
+      "languages": [],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "a0de2a21-e575-4377-9083-081e8b5ad2be",
+      "systemName": "resortlinstow",
+      "code": "LIN",
+      "currency": "EUR",
+      "name": "Resort Linstow",
+      "slug": "resortlinstow",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/2/desktop-retina/carousel_wide_1024x768_15Jahre%252Ejpg",
+      "website": "https://linstow.vandervalk.de",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 30,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Berlin",
+      "address": {
+        "city": "Linstow",
+        "street": "Krakower Chaussee",
+        "streetNumber": "1",
+        "streetNumberAddition": "",
+        "postalCode": "D-18292",
+        "countryCode": "DE",
+        "gps": "",
+        "latitude": 53.6180218,
+        "longitude": 12.3639637
+      },
+      "contacts": [
+        {
+          "phone": "+49 (0) 38457 70",
+          "email": "linstow@vandervalk.de",
+          "type": "main"
+        },
+        {
+          "phone": "+49 (0) 38457 70",
+          "email": "linstow@vandervalk.de",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 6
+        },
+        "children": {
+          "max": 6
+        },
+        "adults": {
+          "max": 7
+        },
+        "maxPersons": 8
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": true
+        }
+      ],
+      "guaranteePolicies": [
+        {
+          "code": "NONREF",
+          "prepaidPercentage": 100,
+          "includeTax": true
+        },
+        {
+          "code": "ANZ30",
+          "prepaidPercentage": 30,
+          "includeTax": false
+        }
+      ],
+      "checkinFlow": "new",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "0e0e5581-0de6-4096-8b79-3f57e1160d73",
+      "systemName": "hotelluxembourgarlon",
+      "code": "LUX",
+      "currency": "EUR",
+      "name": "Hotel Luxembourg-Arlon",
+      "slug": "hotelluxembourgarlon",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/119/desktop-retina/carousel_wide_1024x768_Arlon%2520Hotel%2520Van%2520der%2520Valk%2520vue%25202%2520150113%252D2%252Ejpg",
+      "website": "https://www.hotelluxembourg-arlon.be",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Arlon",
+        "street": "Route de Longwy",
+        "streetNumber": "596",
+        "streetNumberAddition": "",
+        "postalCode": "6700",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 49.648017703329,
+        "longitude": 5.818886160851
+      },
+      "contacts": [
+        {
+          "phone": "+32 63233222",
+          "email": "info@luxembourg.valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@luxembourg.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 3
+        },
+        "children": {
+          "max": 4
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 6
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "e69b15a8-94f9-4f36-a46f-87b432b015df",
+      "systemName": "hotelmechelen",
+      "code": "MEC",
+      "currency": "EUR",
+      "name": "Van der Valk Hotel Mechelen",
+      "slug": "hotelmechelen",
+      "image": "",
+      "website": "https://www.hotel-mechelen.be",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Mechelen",
+        "street": "Rode kruisplein",
+        "streetNumber": "1-4",
+        "streetNumberAddition": "",
+        "postalCode": "2800",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 51.0337427,
+        "longitude": 4.4699811
+      },
+      "contacts": [
+        {
+          "phone": "+32 15 65 01 65",
+          "email": "info@hotel-mechelen.be",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@hotel-mechelen.be",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 0
+        },
+        "children": {
+          "max": 0
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 2
+      },
+      "languages": [],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "bf7283f8-3219-4fe3-9b16-a08e9bbf2f3b",
+      "systemName": "schlossmeisdorf",
+      "code": "MEI",
+      "currency": "EUR",
+      "name": "Parkhotel Schloss Meisdorf",
+      "slug": "schlossmeisdorf",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/80/desktop-retina/carousel_wide_1024x768_meisdorf%252D001%252EJPG",
+      "website": "https://meisdorf.vandervalk.de",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Berlin",
+      "address": {
+        "city": "Meisdorf",
+        "street": "Allee",
+        "streetNumber": "5",
+        "streetNumberAddition": "",
+        "postalCode": "D-06463",
+        "countryCode": "DE",
+        "gps": "",
+        "latitude": 51.70374,
+        "longitude": 11.28718
+      },
+      "contacts": [
+        {
+          "phone": "+49 34743 98 0",
+          "email": "meisdorf@vandervalk.de",
+          "type": "main"
+        },
+        {
+          "phone": "+49 34743 98 0",
+          "email": "meisdorf@vandervalk.de",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 3
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "52d97433-bb28-46e1-aee6-504a45813936",
+      "systemName": "hotelmelle",
+      "code": "MEL",
+      "currency": "EUR",
+      "name": "Van der Valk Hotel Melle-Osnabrück",
+      "slug": "hotelmelle",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/74/desktop-retina/carousel_wide_1024x768_Aussenanischt%2520Nacht%252Ejpg",
+      "website": "https://melle.vandervalk.de",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Berlin",
+      "address": {
+        "city": "Melle",
+        "street": "Wellingholzhausener Straße",
+        "streetNumber": "7",
+        "streetNumberAddition": "",
+        "postalCode": "D - 49324",
+        "countryCode": "DE",
+        "gps": "",
+        "latitude": 52.194495,
+        "longitude": 8.31738
+      },
+      "contacts": [
+        {
+          "phone": "+49 54 22 96 24 0",
+          "email": "melle@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@melle.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 3
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "5a9ae27a-4719-45d7-b8ac-3b5fe403cb10",
+      "systemName": "hotelmoers",
+      "code": "MOE",
+      "currency": "EUR",
+      "name": "Hotel Moers",
+      "slug": "hotelmoers",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/75/desktop-retina/carousel_wide_1024x768_11048735%255F945522035492582%255F3482450338993329837%255Fo%252Ejpg",
+      "website": "https://moers.vandervalk.de",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Berlin",
+      "address": {
+        "city": "Moers",
+        "street": "Krefelder Strasse",
+        "streetNumber": "169",
+        "streetNumberAddition": "",
+        "postalCode": "D-47447",
+        "countryCode": "DE",
+        "gps": "",
+        "latitude": 51.44078,
+        "longitude": 6.6111
+      },
+      "contacts": [
+        {
+          "phone": "+49 2841 146 0",
+          "email": "moers@vandervalk.de",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "moers@vandervalk.de",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 3
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "74c96220-82d7-4c37-ac01-f2d7b7a8d96f",
+      "systemName": "hoteldemolenhoek",
+      "code": "MOL",
+      "currency": "EUR",
+      "name": "Hotel De Molenhoek - Nijmegen",
+      "slug": "hoteldemolenhoek",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/62/desktop-retina/carousel_wide_1024x768_restaurant%2520met%2520nieuwe%2520zonneschermen%252Ejpg",
+      "website": "https://www.hoteldemolenhoek.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Molenhoek (nabij Nijmegen)",
+        "street": "Rijksweg",
+        "streetNumber": "1",
+        "streetNumberAddition": "",
+        "postalCode": "6584AA",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.7655903,
+        "longitude": 5.8685547
+      },
+      "contacts": [
+        {
+          "phone": "+31 24 358 01 55",
+          "email": "molenhoek@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "+31 24 358 01 55",
+          "email": "info@hoteldemolenhoek.nl",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "1e67b977-6489-47b7-818e-369d6194bb2b",
+      "systemName": "hotelnazareth",
+      "code": "NAZ",
+      "currency": "EUR",
+      "name": "Hotel Nazareth - Gent",
+      "slug": "hotelnazareth",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/89/desktop-retina/carousel_wide_1024x768_Nazareth%25202015%252003%252Ejpg",
+      "website": "https://www.hotelnazareth.be",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Gent",
+        "street": "Autosnelweg",
+        "streetNumber": "E-17",
+        "streetNumberAddition": "",
+        "postalCode": "9810 Nazareth",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 50.97371123714,
+        "longitude": 3.614422739868
+      },
+      "contacts": [
+        {
+          "phone": "+32 9 382 28 28",
+          "email": "nazareth@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "receptie@hotelnazareth.be",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 2
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 10
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 2
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "e9eb37a9-2579-4aa2-958e-288c27623e76",
+      "systemName": "hotelnijmegenlent",
+      "code": "NMG",
+      "currency": "EUR",
+      "name": "Hotel Nijmegen - Lent",
+      "slug": "hotelnijmegenlent",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/116/desktop-retina/carousel_wide_1024x768_Wk23vdValk0062%252Ejpg",
+      "website": "https://www.valknijmegen.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Nijmegen",
+        "street": "Hertog Eduardplein",
+        "streetNumber": "4",
+        "streetNumberAddition": "",
+        "postalCode": "6663AN",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.8627493,
+        "longitude": 5.8611237
+      },
+      "contacts": [
+        {
+          "phone": "+31 24 792 02 00",
+          "email": "nijmegen@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "nijmegen@valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 4
+        },
+        "adults": {
+          "max": 5
+        },
+        "maxPersons": 5
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "Graag willen wij u er op attenderen dat al onze kamers niet-roken kamers zijn. Mochten wij constateren dat er toch gerookt is op de kamer, dan staat hier een boete op van €200,00. Indien het brandalarm afgaat door roken op de kamer, en de brandweer moet uitrukken, dan zullen de voorrijkosten van €200,00 aan u worden doorbelast.",
+          "isDefault": true
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "053be61d-f737-4fc0-8670-7c071bf0b216",
+      "systemName": "hotelnuland",
+      "code": "NUL",
+      "currency": "EUR",
+      "name": "Hotel Nuland - 's-Hertogenbosch",
+      "slug": "hotelnuland",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/53/desktop-retina/carousel_wide_1024x768_Hoofditem%2520Faciliteiten%252011%252Ejpg",
+      "website": "https://www.hotelnuland.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Nuland",
+        "street": "Rijksweg",
+        "streetNumber": "25",
+        "streetNumberAddition": "",
+        "postalCode": "5391LH",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.7199739,
+        "longitude": 5.4381421
+      },
+      "contacts": [
+        {
+          "phone": "+31 73 534 25 34",
+          "email": "nuland@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@nuland.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 3
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "f4d4f7ee-ef1d-45fd-a6fb-42eed551098d",
+      "systemName": "hotelbrugge-oostkamp",
+      "code": "OOS",
+      "currency": "EUR",
+      "name": "Hotel Brugge-Oostkamp",
+      "slug": "hotelbrugge-oostkamp",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/87/desktop-retina/carousel_wide_1024x768_hotelpresentatie%2520visuals6%252Ejpg",
+      "website": "https://www.hotelbrugge-oostkamp.be",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Oostkamp",
+        "street": "Kapellestraat",
+        "streetNumber": "146",
+        "streetNumberAddition": "",
+        "postalCode": "8020",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 51.1439724,
+        "longitude": 3.2463285
+      },
+      "contacts": [
+        {
+          "phone": "+32 50 83 37 80",
+          "email": "brugge@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "receptie@brugge.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 5
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "403b0c23-c6ef-4304-bda1-71dacb543764",
+      "systemName": "theaterhotelroermond",
+      "code": "ORA",
+      "currency": "EUR",
+      "name": "TheaterHotel De Oranjerie",
+      "slug": "theaterhotelroermond",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/67/desktop-retina/carousel_wide_1024x768_THO%2520buiten%252Ejpg",
+      "website": "https://www.theaterhotelroermond.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Roermond",
+        "street": "Kloosterwandplein",
+        "streetNumber": "12-16",
+        "streetNumberAddition": "",
+        "postalCode": "6041JA",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.1919606,
+        "longitude": 5.9902317
+      },
+      "contacts": [
+        {
+          "phone": "+31 475 391 491",
+          "email": "info@oranjerie.valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@oranjerie.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 3
+        },
+        "adults": {
+          "max": 3
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "147a5b8e-8781-4500-b363-cb635c45392a",
+      "systemName": "plazaresortbonaire",
+      "code": "PRB",
+      "currency": "USD",
+      "name": "Plaza Beach & Dive Resort Bonaire",
+      "slug": "plazaresortbonaire",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/99/desktop-retina/carousel_wide_1024x768_Plaza%252DAir%252Ejpg",
+      "website": "https://www.plazaresortbonaire.com",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 50,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "America/Curacao",
+      "address": {
+        "city": "Kralendijk",
+        "street": "J.A. Abrahamboulevard",
+        "streetNumber": "80",
+        "streetNumberAddition": "",
+        "postalCode": "100001",
+        "countryCode": "BQ",
+        "gps": "",
+        "latitude": 12.1443544,
+        "longitude": -68.2753408
+      },
+      "contacts": [
+        {
+          "phone": "+599 717 25 00",
+          "email": "reservations@bonaire.valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "reservations@bonaire.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 3
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "42efce71-7f4d-4643-93d7-c3b8c6973a49",
+      "systemName": "hotelprinceville",
+      "code": "PRI",
+      "currency": "EUR",
+      "name": "Hotel Breda Princeville",
+      "slug": "hotelprinceville",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/54/desktop-retina/carousel_wide_1024x768_11%252Ejpg",
+      "website": "https://www.vandervalkbreda.com",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Breda",
+        "street": "Princenhagelaan",
+        "streetNumber": "5",
+        "streetNumberAddition": "",
+        "postalCode": "4813DA",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.577129,
+        "longitude": 4.7293545
+      },
+      "contacts": [
+        {
+          "phone": "+31 76 522 60 55",
+          "email": "princeville@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "princeville@valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 2
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 3
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "60da4dec-92d6-4512-afd9-967b3c4739b1",
+      "systemName": "hotelridderkerk",
+      "code": "RID",
+      "currency": "EUR",
+      "name": "Hotel Ridderkerk",
+      "slug": "hotelridderkerk",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/15/desktop-retina/carousel_wide_1024x768_Sfeer%252Dentree%252D22%252Ejpg",
+      "website": "https://www.hotelridderkerk.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Ridderkerk",
+        "street": "Krommeweg",
+        "streetNumber": "1",
+        "streetNumberAddition": "",
+        "postalCode": "2988CB",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.8671888,
+        "longitude": 4.5589855
+      },
+      "contacts": [
+        {
+          "phone": "+31 180 64 69 00",
+          "email": "ridderkerk@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "receptie@ridderkerk.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 3
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "e38fbb02-45d5-41b7-8869-ddc95f40630d",
+      "systemName": "hotelsassenheim",
+      "code": "SAS",
+      "currency": "EUR",
+      "name": "Hotel Sassenheim-Leiden",
+      "slug": "hotelsassenheim",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/1/desktop-retina/carousel_wide_1024x768_%255FZ1P1343%252Ejpg",
+      "website": "https://www.hotelsassenheim.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Sassenheim",
+        "street": "Warmonderweg",
+        "streetNumber": "8",
+        "streetNumberAddition": "",
+        "postalCode": "2171AH",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.2134889,
+        "longitude": 4.5042893
+      },
+      "contacts": [
+        {
+          "phone": "+31 252 21 90 19",
+          "email": "sassenheim@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@sassenheim.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 2
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 4
+        },
+        "adults": {
+          "max": 3
+        },
+        "maxPersons": 6
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "Graag willen wij u er op attenderen dat al onze kamers niet-roken kamers zijn! Mochten wij constateren dat er toch gerookt is op de kamer, dan staat hier een boete op van €200,00. Indien het brandalarm afgaat door roken op de kamer, en de brandweer moet uitrukken, dan zullen de voorrijkosten van €200,00 aan u worden doorbelast.",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "f52689ca-3a57-4398-a4f2-592d252f465b",
+      "systemName": "landhotelspornitz",
+      "code": "SPO",
+      "currency": "EUR",
+      "name": "Landhotel Spornitz",
+      "slug": "landhotelspornitz",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/82/desktop-retina/carousel_wide_1024x768_spornitz%252D056%252EJPG",
+      "website": "https://spornitz.vandervalk.de",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Berlin",
+      "address": {
+        "city": "Spornitz (An der B191)",
+        "street": "Am Alten Dütschower Weg",
+        "streetNumber": "1",
+        "streetNumberAddition": "",
+        "postalCode": "D-19372",
+        "countryCode": "DE",
+        "gps": "",
+        "latitude": 53.40504,
+        "longitude": 11.71123
+      },
+      "contacts": [
+        {
+          "phone": "+49 38726 88 0",
+          "email": "spornitz@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "spornitz@vandervalk.de",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "6be8b76b-b7f6-4f69-82d6-be009a409013",
+      "systemName": "spreewaldparkhotel",
+      "code": "SPR",
+      "currency": "EUR",
+      "name": "Spreewald Parkhotel",
+      "slug": "spreewaldparkhotel",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/83/desktop-retina/carousel_wide_1024x768_SPH%2520Aussen%2520%252833%2529%252Ejpg",
+      "website": "https://spreewald.vandervalk.de",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Berlin",
+      "address": {
+        "city": "Bersteland",
+        "street": "Van-der-Valk-Allee",
+        "streetNumber": "2",
+        "streetNumberAddition": "",
+        "postalCode": "15910",
+        "countryCode": "DE",
+        "gps": "",
+        "latitude": 51.948141643013,
+        "longitude": 13.786105142822
+      },
+      "contacts": [
+        {
+          "phone": "+49 35474 270",
+          "email": "spreewald@vandervalk.de",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "spreewald@vandervalk.de",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 2
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "9a7c8a52-dfbc-4889-910f-ed0f9ae1e7a0",
+      "systemName": "hotellecatalogne",
+      "code": "STA",
+      "currency": "EUR",
+      "name": "Hotel Le Catalogne",
+      "slug": "hotellecatalogne",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/95/desktop-retina/carousel_wide_1024x768_16CDB443%252DB2FD%252D46D5%252DB92C5340495D7C66%252Ejpg",
+      "website": "https://www.hotellecatalogne.com",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Paris",
+      "address": {
+        "city": "Saint Aygulf - Côte d'Azur",
+        "street": "Avenue Lucien Boeuf",
+        "streetNumber": "290",
+        "streetNumberAddition": "",
+        "postalCode": "83370",
+        "countryCode": "FR",
+        "gps": "",
+        "latitude": 43.381569939715,
+        "longitude": 6.721659553165
+      },
+      "contacts": [
+        {
+          "phone": "+33 4 94 81 01 44",
+          "email": "catalogne@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "reception@catalogne.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 2
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 0
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 2
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "48534c79-0580-4ce6-a8db-523acb6a303c",
+      "systemName": "hotelstaygulf",
+      "code": "STA",
+      "currency": "EUR",
+      "name": "Hotel Saint-Aygulf",
+      "slug": "hotelstaygulf",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/94/desktop-retina/carousel_wide_1024x768_FacePlage2016%252Ejpg",
+      "website": "https://www.hotelstaygulf.fr",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Paris",
+      "address": {
+        "city": "Saint Aygulf - Côte d'Azur",
+        "street": "RD 559",
+        "streetNumber": "214",
+        "streetNumberAddition": "",
+        "postalCode": "83370",
+        "countryCode": "FR",
+        "gps": "Rue d'Alsace",
+        "latitude": 43.392294379867,
+        "longitude": 6.726969307751
+      },
+      "contacts": [
+        {
+          "phone": "+33 4 94 52 74 84",
+          "email": "reception@aygulf.valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "reception@aygulf.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 2
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 14
+        },
+        "maxPersons": 10
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "4c587068-e3ec-4873-b908-79183b0ba937",
+      "systemName": "hotelstein",
+      "code": "STE",
+      "currency": "EUR",
+      "name": "Hotel Stein-Urmond",
+      "slug": "hotelstein",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/63/desktop-retina/carousel_wide_1024x768_4354b%2520IT%252Ejpg",
+      "website": "https://www.hotelstein.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Urmond",
+        "street": "Mauritslaan",
+        "streetNumber": "65",
+        "streetNumberAddition": "",
+        "postalCode": "6129EL",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 50.9881005,
+        "longitude": 5.7805974
+      },
+      "contacts": [
+        {
+          "phone": "+31 46 426 90 30",
+          "email": "steinurmond@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@stein.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 3
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "3fe8b349-bbe8-4054-83d5-5632702e693d",
+      "systemName": "hoteltiel",
+      "code": "TIE",
+      "currency": "EUR",
+      "name": "Hotel Tiel",
+      "slug": "hoteltiel",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/36/desktop-retina/carousel_wide_1024x768_Receptie%252Ejpg",
+      "website": "https://www.hoteltiel.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Tiel",
+        "street": "Laan van Westroijen",
+        "streetNumber": "10",
+        "streetNumberAddition": "",
+        "postalCode": "4003AZ",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.9000258,
+        "longitude": 5.4356442
+      },
+      "contacts": [
+        {
+          "phone": "+31 344 62 20 20",
+          "email": "tiel@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@tiel.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 3
+        },
+        "children": {
+          "max": 3
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "0a83063c-a53d-4a5e-a2fa-8faefad8a362",
+      "systemName": "hoteludenveghel",
+      "code": "UDE",
+      "currency": "EUR",
+      "name": "Hotel Uden - Veghel",
+      "slug": "hoteludenveghel",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/107/desktop-retina/carousel_wide_1024x768_%252D136%252EJPG",
+      "website": "https://www.hoteludenveghel.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Uden",
+        "street": "Rondweg",
+        "streetNumber": "2",
+        "streetNumberAddition": "",
+        "postalCode": "5406NK",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.6734703,
+        "longitude": 5.6043575
+      },
+      "contacts": [
+        {
+          "phone": "+31 413 79 90 10",
+          "email": "info@udenveghel.valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@udenveghel.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 2
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "813f47f2-76e8-4a77-884d-20dba98dcaaf",
+      "systemName": "hotelveenendaal",
+      "code": "VEE",
+      "currency": "EUR",
+      "name": "Hotel Veenendaal",
+      "slug": "veenendaal",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/106/desktop-retina/carousel_wide_1024x768_Lounge%252006%252Ejpg",
+      "website": "https://www.hotelveenendaal.com",
+      "chamberOfCommerceNumber": "30266690",
+      "checkInTime": "16:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 80,
+      "municipalTax": {
+        "adult": 100,
+        "child": 100,
+        "infant": 100
+      },
+      "stars": 1,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Veenendaal",
+        "street": "Bastion",
+        "streetNumber": "75",
+        "streetNumberAddition": "ABCD",
+        "postalCode": "3905 NJ",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.0433959,
+        "longitude": 5.5666763
+      },
+      "contacts": [
+        {
+          "phone": "+31 318 79 90 60",
+          "email": "info@veenendaal.valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "+31318799060",
+          "email": "info@veenendaal.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "http://veenendaal.uat-2.valk.aanzee.nl/",
+            "restaurant": "http://veenendaal.uat-2.valk.aanzee.nl/eten-drinken"
+          },
+          "code": "NL",
+          "footnote": "Let op, vanwege COVID-19 schenken wij na 20:00 geen alcohol meer. Daarnaast is het belangrijk om goed uw handen te wassen en afstand te bewaren.",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "http://veenendaal.uat-2.valk.aanzee.nl/en",
+            "restaurant": "http://veenendaal.uat-2.valk.aanzee.nl/en/culinary"
+          },
+          "code": "EN",
+          "footnote": "Due to COVID-19 we cannot serve alcohol after 20:00.",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [
+        {
+          "code": "NONREF",
+          "prepaidPercentage": 100,
+          "includeTax": true
+        },
+        {
+          "code": "CANCTEST",
+          "prepaidPercentage": 80,
+          "includeTax": false
+        },
+        {
+          "code": "AANBT80",
+          "prepaidPercentage": 80,
+          "includeTax": false
+        },
+        {
+          "code": "AANBT50",
+          "prepaidPercentage": 50,
+          "includeTax": false
+        }
+      ],
+      "checkinFlow": "new",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "8fb4dde6-326d-4d39-9663-1b25b71a1e59",
+      "systemName": "hotelvenlo",
+      "code": "VEN",
+      "currency": "EUR",
+      "name": "Hotel Venlo",
+      "slug": "hotelvenlo",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/64/desktop-retina/carousel_wide_1024x768_Van%252Dder%252DValk%252DHotel%252DVenlo%252Dbuitenaanzicht%252Dingang%252Ejpg",
+      "website": "https://www.hotelvenlo.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Venlo",
+        "street": "Nijmeegseweg",
+        "streetNumber": "90",
+        "streetNumberAddition": "",
+        "postalCode": "5916PT",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.395162900402,
+        "longitude": 6.173367647083
+      },
+      "contacts": [
+        {
+          "phone": "+31 77 354 41 41",
+          "email": "venlo@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "venlo@valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 4
+        },
+        "child": {
+          "minAge": 5,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 2
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "c92d26aa-8ad7-4a91-895e-d0073d0c7f59",
+      "systemName": "hotelverviers",
+      "code": "VER",
+      "currency": "EUR",
+      "name": "Hotel Verviers",
+      "slug": "hotelverviers",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/93/desktop-retina/carousel_wide_1024x768_VDV%255FVerviers%255FWEB%2520%25283%2520of%25206%2529%252Ejpg",
+      "website": "https://www.hotelverviers.be",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Brussels",
+      "address": {
+        "city": "Verviers",
+        "street": "Rue de la Station",
+        "streetNumber": "4",
+        "streetNumberAddition": "",
+        "postalCode": "4800",
+        "countryCode": "BE",
+        "gps": "",
+        "latitude": 50.592797,
+        "longitude": 5.84904
+      },
+      "contacts": [
+        {
+          "phone": "+32 87 30 56 56",
+          "email": "reception@hotelverviers.be",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "reception@hotelverviers.be",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 4
+        },
+        "children": {
+          "max": 4
+        },
+        "adults": {
+          "max": 5
+        },
+        "maxPersons": 5
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "FR",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "ed605905-8346-42ca-a024-3edd9cef807a",
+      "systemName": "golfhotelserrahn",
+      "code": "VLA",
+      "currency": "EUR",
+      "name": "Golfhotel Serrahn",
+      "slug": "golfhotelserrahn",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/81/desktop-retina/carousel_wide_1024x768_Luftaufnahme%255FNEUtop%252Ejpg",
+      "website": "https://serrahn.vandervalk.de",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 50,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Berlin",
+      "address": {
+        "city": "Serrahn",
+        "street": "Dobbiner Weg",
+        "streetNumber": "24",
+        "streetNumberAddition": "",
+        "postalCode": "D-18292",
+        "countryCode": "DE",
+        "gps": "",
+        "latitude": 53.6541,
+        "longitude": 12.34456
+      },
+      "contacts": [
+        {
+          "phone": "+49 38456 6692 0",
+          "email": "serrahn@vandervalk.de",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "serrahn@vandervalk.de",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "be83019b-5103-4b30-81ef-a0a9217ab91b",
+      "systemName": "hotelvught",
+      "code": "VUG",
+      "currency": "EUR",
+      "name": "Hotel 's-Hertogenbosch - Vught",
+      "slug": "hotelvught",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/55/desktop-retina/carousel_wide_1024x768_Juiste%2520entree%252EJPG",
+      "website": "https://www.hotelvught.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 50,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Vught",
+        "street": "Bosscheweg",
+        "streetNumber": "2",
+        "streetNumberAddition": "",
+        "postalCode": "5261AA",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.670170597023,
+        "longitude": 5.29276030423
+      },
+      "contacts": [
+        {
+          "phone": "+31 73 658 77 77",
+          "email": "info@vught.valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@vught.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "af303206-809c-419b-a6a6-3d20ce4a34ac",
+      "systemName": "amsterdam",
+      "code": "VVA",
+      "currency": "EUR",
+      "name": "Hotel Amsterdam-Amstel",
+      "slug": "amsterdam",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/131/desktop-retina/carousel_wide_1024x768_Hotel%2520Amsterdam%252D5%252Ejpg",
+      "website": "https://www.vandervalkamsterdam.com",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Amsterdam",
+        "street": "Joan Muyskenweg",
+        "streetNumber": "20",
+        "streetNumberAddition": "",
+        "postalCode": "1096CJ",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.3330476,
+        "longitude": 4.9155287
+      },
+      "contacts": [
+        {
+          "phone": "+31 (0)20 80 01 100",
+          "email": "amsterdam@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "reservations@amsterdam.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "509bb429-5307-4a4c-9fa4-2aada7ba6cb9",
+      "systemName": "hotelarnhem",
+      "code": "WES",
+      "currency": "EUR",
+      "name": "Hotel Arnhem",
+      "slug": "hotelarnhem",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/32/desktop-retina/carousel_wide_1024x768_%255FMG%255F6674%255F1%252D1%252Ejpg",
+      "website": "https://www.hotelarnhem.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Arnhem",
+        "street": "Amsterdamseweg",
+        "streetNumber": "505",
+        "streetNumberAddition": "",
+        "postalCode": "6816VK",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.0144397,
+        "longitude": 5.8199013
+      },
+      "contacts": [
+        {
+          "phone": "+31 26 482 11 00",
+          "email": "arnhem@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@arnhem.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "bee1451a-abd0-472b-a513-d32de1a1c8d5",
+      "systemName": "hoteldewittebergen",
+      "code": "WIT",
+      "currency": "EUR",
+      "name": "Hotel Hilversum - de Witte Bergen",
+      "slug": "hoteldewittebergen",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/43/desktop-retina/carousel_wide_1024x768_F5BE9D7E%252D047A%252D45A3%252D93DE046CD277A27C%252Ejpg",
+      "website": "https://www.hoteldewittebergen.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Eemnes (Laren)",
+        "street": "Rijksweg",
+        "streetNumber": "2",
+        "streetNumberAddition": "",
+        "postalCode": "3755MV",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 52.2354764,
+        "longitude": 5.2323385
+      },
+      "contacts": [
+        {
+          "phone": "+31 35 539 58 00",
+          "email": "wittebergen@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "reservations@wittebergen.valk.nl",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 2
+        },
+        "child": {
+          "minAge": 3,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 1
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 3
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "5237420b-33be-429c-ae03-9b86ec70e3d7",
+      "systemName": "hotelzaltbommel",
+      "code": "ZBL",
+      "currency": "EUR",
+      "name": "Hotel Zaltbommel-A2",
+      "slug": "hotelzaltbommel",
+      "image": "",
+      "website": "https://www.vandervalkzaltbommel.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 0,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 1,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Zaltbommel",
+        "street": "Hogeweg",
+        "streetNumber": "65",
+        "streetNumberAddition": "",
+        "postalCode": "5301LJ",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 51.7964979,
+        "longitude": 5.2559969
+      },
+      "contacts": [
+        {
+          "phone": "+31 418 79 90 90",
+          "email": "info@zaltbommel.valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@zaltbommel.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 12
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 1
+        },
+        "children": {
+          "max": 2
+        },
+        "adults": {
+          "max": 2
+        },
+        "maxPersons": 2
+      },
+      "languages": [],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    },
+    {
+      "guid": "04bfe52e-0b9e-4779-bddb-7f3a4d1f6f6c",
+      "systemName": "hotelzuidbroek",
+      "code": "ZUI",
+      "currency": "EUR",
+      "name": "Hotel Groningen - Zuidbroek A7",
+      "slug": "hotelzuidbroek",
+      "image": "https://assets.vandervalkonline.com/inc/hotels/19/desktop-retina/carousel_wide_1024x768_%252D59%252Ejpg",
+      "website": "https://www.hotelzuidbroek.nl",
+      "chamberOfCommerceNumber": "",
+      "checkInTime": "15:00",
+      "bookingMaxNights": 13,
+      "prepaidPercentage": 100,
+      "municipalTax": {
+        "adult": 0,
+        "child": 0,
+        "infant": 0
+      },
+      "stars": 4,
+      "timeZone": "Europe/Amsterdam",
+      "address": {
+        "city": "Zuidbroek",
+        "street": "Burg. Omtaweg",
+        "streetNumber": "4",
+        "streetNumberAddition": "",
+        "postalCode": "9636EM",
+        "countryCode": "NL",
+        "gps": "",
+        "latitude": 53.1719581,
+        "longitude": 6.8507053
+      },
+      "contacts": [
+        {
+          "phone": "+31 598 45 37 87",
+          "email": "zuidbroek@valk.com",
+          "type": "main"
+        },
+        {
+          "phone": "",
+          "email": "info@zuidbroek.valk.com",
+          "type": "booking"
+        }
+      ],
+      "occupancySettings": {
+        "baby": {
+          "minAge": 0,
+          "maxAge": 3
+        },
+        "child": {
+          "minAge": 4,
+          "maxAge": 11
+        }
+      },
+      "occupancyRestrictions": {
+        "infants": {
+          "max": 3
+        },
+        "children": {
+          "max": 3
+        },
+        "adults": {
+          "max": 4
+        },
+        "maxPersons": 4
+      },
+      "languages": [
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "NL",
+          "footnote": "",
+          "isDefault": true
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "EN",
+          "footnote": "",
+          "isDefault": false
+        },
+        {
+          "webpages": {
+            "homepage": "",
+            "restaurant": ""
+          },
+          "code": "DE",
+          "footnote": "",
+          "isDefault": false
+        }
+      ],
+      "guaranteePolicies": [],
+      "checkinFlow": "off",
+      "checkoutEnabled": false
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "/v1/hotels"
+    }
+  },
+  "meta": {
+    "query": {}
+  }
+}
