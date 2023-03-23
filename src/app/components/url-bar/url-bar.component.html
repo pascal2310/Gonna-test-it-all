@@ -3,7 +3,7 @@
     class="w-10/12 border border-black rounded-sm"
     type="text"
     [value]="url"
-    [formControl]="url"
+    [formControl]="urlInput"
   />
   <button
     class="w-2/12 ml-3 border border-black rounded-sm bg-orange-300"
@@ -13,7 +13,5 @@
   </button>
 </div>
 <div class="mx-2" *ngIf="response$ | async as response">
-  <!-- <ngx-json-viewer [json]="response"></ngx-json-viewer> -->
+  <ngx-json-viewer [json]="response"></ngx-json-viewer>
 </div>
-
-<h2>Are mock and reponse the same? {{ jsonDiffResult$ | async | json }}</h2>

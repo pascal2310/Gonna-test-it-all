@@ -1,1 +1,11 @@
-<app-url-bar></app-url-bar>
+<div class="flex flex-row">
+  <div class="w-1/6 mr-2">
+    <app-postman-menu
+      [collection]="postmanCollection$ | async"
+      (emitItem)="clickUrl($event)"
+    ></app-postman-menu>
+  </div>
+  <div class="w-5/6">
+    <app-url-bar [url]="url"></app-url-bar>
+  </div>
+</div>

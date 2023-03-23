@@ -1,0 +1,14 @@
+<div *ngIf="collection">
+  <h2>{{ collection.info.name }}</h2>
+
+  <hr />
+
+  <ul>
+    <li
+      *ngFor="let item of collection.item"
+      (click)="clickItem(item.request.url.raw)"
+    >
+      {{ item.name }}
+    </li>
+  </ul>
+</div>
