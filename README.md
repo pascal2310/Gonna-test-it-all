@@ -1,27 +1,37 @@
 # GonnaTestItAll
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+# Le me trying to build a better an app to run e2e tests from json files
+
+## todos for mvp
+
+- [x] setup application
+- [x] read out json file from dir
+- [ ] convert file to menu and make it clickable
+- [ ] run http requests based on menu
+- [ ] make post put and delete compatible
+- [ ] add body
+- [ ] add headers
+- [ ] integrate a test setup (or pm tests or convert to jest or something)
+- [ ] make test component work with json tests
+- [ ] run single test
+- [ ] visualize test reports
+- [ ] make env files compatible
+- [ ] create new requests
+- [ ] edit existing
+- [ ] delete requests
+
+# upcoming epics
+
+- [ ] research if you can locate a file from a location on your pc (upload and download)
+- [ ] create logins
+- [ ] add collection to for example firebase, and upload and download via firebase account
+- [ ] setup mockservers
+- [ ] add pre request scripts and after each scripts
+- [ ] run collection / multiple tests
+- [ ] workspaces
+- [ ] teams to similiar work on one collection
+- [ ] renaming tests and collections
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
